@@ -4,4 +4,4 @@ Olá, sou Guilherme Augusto! 👋
 📫 Email para contato: guilherme.ams10@gmail.com
 😄 Pronouns: Ele/Dele
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guiggs67&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered&theme=radical)
