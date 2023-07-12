@@ -2,7 +2,7 @@ Olá, sou o Guilherme Augusto! 👋
 
 📚Estudante de Engenharia da Computação<br/>
 📫 Email para contato: guilherme.ams10@gmail.com<br/>
-😄 Pronouns: Ele/Dele<br/><br/>
+😄 Pronomes: Ele/Dele<br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guiggs67&show_icons=true&theme=radical)<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered&theme=radical)
 
