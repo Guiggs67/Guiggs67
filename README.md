@@ -4,7 +4,7 @@ Olá, sou o Guilherme Augusto! 👋
 📫 Email para contato: guilherme.ams10@gmail.com<br/>
 😄 Pronomes: Ele/Dele<br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guiggs67&show_icons=true&theme=radical)<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guiggs67&show=reviews,discussions_started,discussions_answered&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
