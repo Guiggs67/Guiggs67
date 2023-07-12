@@ -21,4 +21,4 @@ Olá, sou o Guilherme Augusto! 👋
   <a href = "mailto:guilherme.ams10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-augusto-84125a180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-![snake gif](https://github.com/Guiggs67/Guiggs67/blob/main/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Guiggs67/Guiggs67/blob/main/.github/workflows/github-contribution-grid-snake-dark.svg)
