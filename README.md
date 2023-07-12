@@ -1,4 +1,4 @@
-Olá, sou o Guilherme Augusto! 👋
+Olá, sou o Guilherme Augusto 👋
 
 📚Estudante de Engenharia da Computação<br/>
 📫 Email para contato: guilherme.ams10@gmail.com<br/>
