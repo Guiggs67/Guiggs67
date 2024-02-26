@@ -14,10 +14,10 @@ Olá, sou o Guilherme Augusto👋
 </div><br/>
 
 <div style="display: inline_block">
- <img align="right" alt="Gui-HTML" height="50" width="50" src="https://github.com/Guiggs67/Guiggs67/blob/main/Link.gif">  
+ <img align="right" alt="Gui-HTML" height="100" width="100" src="https://github.com/Guiggs67/Guiggs67/blob/main/Link.gif">  
 </div><br/>
 
-<div> 
+<div style="display: inline_block"> 
   <a href = "mailto:guilherme.ams10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-augusto-84125a180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
