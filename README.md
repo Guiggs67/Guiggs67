@@ -14,7 +14,7 @@ Olá, sou o Guilherme Augusto👋
 </div><br/>
 
 <div style="display: inline_block"><br>
- <img align="right" alt="Gui-HTML" height="100" width="100" src="https://github.com/Guiggs67/Guiggs67/blob/main/Link.gif">  
+ <img align="center" alt="Gui-HTML" height="100" width="100" src="https://github.com/Guiggs67/Guiggs67/blob/main/Link.gif">  
 </div><br/>
 
 <div style="display: inline_block"><br>
